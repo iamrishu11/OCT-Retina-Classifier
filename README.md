@@ -2,7 +2,7 @@
 **AI-powered 4-class classification of retinal diseases from Optical Coherence Tomography (OCT) scans**  
 Live App → https://oct-retina-classifier.streamlit.app/
 
-![demo](https://i.ibb.co/600XTfJN/Screenshot-2025-11-20-025736.png)
+<a href="https://ibb.co/pjjhM9rn"><img src="https://i.ibb.co/600XTfJN/Screenshot-2025-11-20-025736.png" alt="Screenshot-2025-11-20-025736" border="0" /></a>
 
 ### Project Overview
 This deep learning model classifies retinal OCT scans into **four categories**:
