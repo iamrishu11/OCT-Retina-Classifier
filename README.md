@@ -1,8 +1,8 @@
 # Retinal OCT Disease Classifier  
 **AI-powered 4-class classification of retinal diseases from Optical Coherence Tomography (OCT) scans**  
-Live App → https://your-username-oct-classifier.streamlit.app
+Live App → https://oct-retina-classifier.streamlit.app/
 
-![demo](https://via.placeholder.com/800x400.png?text=Retinal+OCT+Classifier+Demo)  
+![demo](https://ibb.co/pjjhM9rn)  
 *(Replace with your own screenshot after deployment)*
 
 ### Project Overview
